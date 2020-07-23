@@ -1,0 +1,7 @@
+{
+  "name": "ionic-3d-slides-perspective",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
